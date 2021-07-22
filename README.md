@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @RoomOccupiers
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RoomOccupiers/RoomOccupiers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-Created a new website on my own which is roomoccupiers.com
---->
+- 👀 I’m interested in creating ideas
+- 🌱 I’m currently learning on creating the websites and as a part of that created https://roomoccupiers.com/
+- 💞️ I’m looking to collaborate on anything related to startups
+- 📫 I'm alweays reacheable on roomoccupiers@gmail.com
